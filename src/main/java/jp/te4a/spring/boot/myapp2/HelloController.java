@@ -13,7 +13,7 @@ public class HelloController
 {
 	
 	
-	@RequestMapping("/te/taro")
+	@RequestMapping("/te")
 	public String taro() {
 		return "Taro desu";
 		}
